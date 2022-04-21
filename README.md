@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="center">
-  Hello!
+  Hello 🌏!
   <img src="https://media.giphy.com/media/4QLseO7ZLaykv73Jca/giphy.gif" width="28">
 </h3>
 
