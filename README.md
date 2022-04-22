@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 salsabilaSyifa/salsabilaSyifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fffefe&borderColor=%23d9d8d8&qColor=%234e7df3&aColor=%23c792ea" /></a> <a href="https://github.com/piyushsuthar/github-readme-quotes"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></a> 
+<a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fffefe&borderColor=%23d9d8d8&qColor=%234e7df3&aColor=%23c792ea" /></a> 
 --->
 
 <h1 align="center">
@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 | ------------- | ------------- |
 
 [![salsabilaSyifa's github activity graph](https://activity-graph.herokuapp.com/graph?username=salsabilaSyifa&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></a> 
