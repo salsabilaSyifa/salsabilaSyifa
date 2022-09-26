@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 🌱 I’m currently learning PHP and Kotlin
 salsabilaSyifa/salsabilaSyifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fffefe&borderColor=%23d9d8d8&qColor=%234e7df3&aColor=%23c792ea" /></a> 
@@ -16,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @salsabilaSyifa
 
-- 🌱 I’m currently learning PHP and Kotlin
  
 | <a href="https://github.com/salsabilaSyifa/github-readme-stats"><img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=salsabilaSyifa&show_icons=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/salsabilaSyifa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsabilaSyifa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
